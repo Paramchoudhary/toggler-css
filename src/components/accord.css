@@ -1,0 +1,16 @@
+*{
+    margin:0;
+    padding:0;
+}
+.accordion-item{
+    background-color: rgb(67, 41, 45);
+    padding: 1rem 2rem;
+    margin: 0 auto ;
+    width: 50%;
+}
+.accordion-header{
+    border: 1px solid #231212;
+    padding: 1rem;
+    border-radius: 5px;
+    cursor: pointer;
+}
